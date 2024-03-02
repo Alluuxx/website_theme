@@ -6,5 +6,6 @@ Here is example of Yle.fi news site with original theme:
 ![image](https://github.com/Alluuxx/website_theme/assets/66247950/77c7e390-5164-41a3-bc76-abcb6ad09753)
 
 And here we have example of scenario, where user have selected "grey" theme and "black" font:
-![image](https://github.com/Alluuxx/website_theme/assets/66247950/5244ee1b-3294-4352-93b9-541ed8a50fbb)
+![image](https://github.com/Alluuxx/website_theme/assets/66247950/f46a0c73-db35-4b46-8c79-e30e4aea0bf5)
+
 
