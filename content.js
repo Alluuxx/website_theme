@@ -84,15 +84,22 @@ function getThemeStyles(theme, fontColor) {
       navbarColor = '#fff';
       break;
     case 'red':
+      bodyColor = '#ff0000';
       headingColor = '#ff0000';
+      linkColor = '#ff0000';
+      navbarColor = '#ff0000';
       break;
     case 'yellow':
+      bodyColor = '#FFFF00';
+      headingColor = '#FFFF00';
       linkColor = '#FFFF00';
+      navbarColor = '#FFFF00';
       break;
     case 'green':
+      bodyColor = '#008000';
       headingColor = '#008000';
       linkColor = '#008000';
-      navbarColor = '#fff';
+      navbarColor = '#008000';
       break;
     default:
 
