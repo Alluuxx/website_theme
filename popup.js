@@ -5,9 +5,8 @@ document.addEventListener('DOMContentLoaded', function () {
     applyTheme();
   });
 
-  // Uuden välilehden teeman vaihtaminen ohjaa Chrome-selaimen asetuksiin
-  var changeNewTabPageButton = document.getElementById('changeNewTabPageButton');
-  changeNewTabPageButton.addEventListener('click', function () {
+  var changeChromeAppearanceText = document.getElementById('changeChromeAppearanceText');
+  changeChromeAppearanceText.addEventListener('click', function () {
     chrome.tabs.create({ url: 'chrome://settings/appearance' });
   });
 });
