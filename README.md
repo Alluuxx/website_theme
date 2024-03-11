@@ -8,7 +8,8 @@ Here is example of Yle.fi news site with original theme:
 ![image](https://github.com/Alluuxx/website_theme/assets/66247950/77c7e390-5164-41a3-bc76-abcb6ad09753)
 
 And here we have example of scenario, where user have selected "blue" theme and "black" font:
-![image](https://github.com/Alluuxx/website_theme/assets/66247950/a225fbaf-80de-4ff3-9a62-fe1e350e6ddd)
+![image](https://github.com/Alluuxx/website_theme/assets/66247950/c2ef7411-28ec-4f23-8221-a2342154db5d)
+
 
 
 
